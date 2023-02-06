@@ -1,0 +1,7 @@
+{
+    "name": "nginx",
+    "dockerComposeFile": ["../docker-compose.yaml"],
+    "service": "nginx",
+    "shutdownAction": "none",
+    "workspaceFolder": "/"
+}

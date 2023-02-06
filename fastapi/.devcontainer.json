@@ -1,0 +1,9 @@
+
+{
+  "name": "fastapi",
+  "dockerComposeFile": ["../docker-compose.yaml"],
+  "service": "fastapi",
+  "shutdownAction": "none",
+  "extensions": ["ms-python.python"],
+  "workspaceFolder": "/code"
+}
